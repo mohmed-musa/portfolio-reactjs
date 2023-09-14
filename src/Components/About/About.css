@@ -1,0 +1,21 @@
+.about {
+    background-color: #1abc9c !important;
+}
+
+.about h2 {
+    position: relative;
+    color: aliceblue;
+}
+
+.line .line-one,
+.line-Two
+ {
+    margin: auto;
+    background-color: white;
+    width: 150px;
+    height: 4px;
+}
+
+.line i {
+    color: #fff !important;
+}

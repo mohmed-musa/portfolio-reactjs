@@ -1,0 +1,31 @@
+
+.portfolio .head-one .line-one ,
+.line-five
+ {
+    margin: auto;
+    background-color: rgb(44, 62, 80) !important;
+    width: 150px;
+    height: 4px;
+}
+.portfolio h2 {
+    color: rgb(44, 62, 80);
+}
+.d-flex i {
+    color: rgb(44, 62, 80);
+}
+
+.layer {
+    background-color: #1abc9ce6;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+}
+
+.layer:hover {
+    opacity: 7;
+}
+
+input {
+    border: none !important;
+    outline: none;
+}

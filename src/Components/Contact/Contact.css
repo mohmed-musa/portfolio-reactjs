@@ -1,0 +1,13 @@
+
+.contact-title h2 {
+    color: rgb(44, 62, 80);
+    position: relative;
+}
+.head-three .line-three,
+.line-four
+ {
+    margin: auto;
+    background-color: rgb(44, 62, 80) !important;
+    width: 150px;
+    height: 4px;
+}

@@ -1,0 +1,20 @@
+.home {
+    background-color: #1abc9c;
+}
+
+.lines .line-one,
+.line-two
+ {
+    margin: auto;
+    background-color: #fff !important;
+    width: 150px;
+    height: 4px;
+}
+
+.lines i {
+    color: #fff;
+}
+
+h2 {
+    color: #fff;
+}
